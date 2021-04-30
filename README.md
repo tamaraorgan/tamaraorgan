@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou Tamara Organ</h1>
 <h3 align="center">Aprendendo a ser uma desenvolvedora full stack!</h3>
 
-- 🌱Eu estou aprendendo **Node, React, React Native**
+- 🌱Eu estou aprendendo **Node, React, React Native e Angular**
 
 - 👨‍💻 Todos os meu projetos estão [https://organ.dev.br/](https://organ.dev.br/)
 
@@ -30,6 +30,9 @@
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> 
     <img src="https://i.ibb.co/XFNnJXg/ts.png" alt="typescript" width="40" height="40"/> 
+  </a>
+    <a href="https://angular.io/" target="_blank"> 
+    <img src="https://i.ibb.co/BCJPxFR/angular.png" alt="angular" width="40" height="40"/> 
   </a>
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://i.ibb.co/smgWkB6/react.png" alt="react" width="40" height="40"/> 
